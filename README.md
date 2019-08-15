@@ -1,2 +1,2 @@
 # Warhammer40kEffectsAR
-AR Core with Unity AR Foundation app for W40k
+Warhammer 40000 Unity AR Foundation Application with AR Core Subsystem.
